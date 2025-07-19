@@ -1,4 +1,3 @@
-
 age  = int(input(" how old are you? "))
 
 NextAge = age + 27
